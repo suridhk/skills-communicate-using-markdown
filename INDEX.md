@@ -1,4 +1,30 @@
 <header>
+# Welcome to My Markdown Page
+
+## About Me
+Hello! I'm learning how to use **Markdown** and **GitHub**.  
+This file is part of my practice activity for creating and editing Markdown files.
+
+## My Interests
+-  Coding
+-  Playing Guitar
+-  Reading
+-  Gaming
+
+## My Favorite Programming Languages
+1. Python
+2. HTML
+3. CSS
+4. C++
+
+## Goals for the Future
+I want to:
+- Learn more about web development.
+- Contribute to open-source projects.
+- Build creative tech solutions.
+
+## Thank You!
+Thanks for visiting my Markdown page! 
 
 <!--
   <<< Author notes: Course header >>>
